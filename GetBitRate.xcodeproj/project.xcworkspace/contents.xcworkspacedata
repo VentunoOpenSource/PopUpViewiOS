@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../../../ott/iOS/v2/ventunoProject/ventunoLib/VentunoLib/VentunoLib.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:ventunoLib"
+      name = "ventunoLib">
+      <Group
+         location = "group:VentunoLib"
+         name = "VentunoLib">
+         <Group
+            location = "group:VentunoLib"
+            name = "VentunoLib">
+            <FileRef
+               location = "group:VentunoLib.h">
+            </FileRef>
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+            <Group
+               location = "group:com"
+               name = "com">
+               <Group
+                  location = "group:ventuno"
+                  name = "ventuno">
+                  <Group
+                     location = "group:lib"
+                     name = "lib">
+                     <Group
+                        location = "group:res"
+                        name = "res">
+                        <FileRef
+                           location = "group:VtnRes.swift">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:ping"
+                        name = "ping">
+                        <FileRef
+                           location = "group:VtnPing.swift">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:network"
+                        name = "network">
+                        <FileRef
+                           location = "group:VtnNetworkCallbacks.swift">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VtnGetURLContents.swift">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VtnURLRequest.swift">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:objects"
+                        name = "objects">
+                        <FileRef
+                           location = "group:VtnJson.swift">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:utils"
+                        name = "utils">
+                        <FileRef
+                           location = "group:VtnExtUIImageView.swift">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VtnUtils.swift">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VtnPostParams.swift">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:log"
+                        name = "log">
+                        <FileRef
+                           location = "group:VtnLog.swift">
+                        </FileRef>
+                     </Group>
+                  </Group>
+               </Group>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:VentunoLib.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "self:GetBitRate.xcodeproj">
+   </FileRef>
+</Workspace>
